@@ -24,7 +24,10 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/etItem"
         android:layout_alignParentEnd="true"
-        android:layout_marginTop="0dp"
+        android:layout_marginTop="-6dp"
         android:layout_marginEnd="0dp"
-        android:text="Save" />
+        android:backgroundTint="@android:color/holo_blue_dark"
+        android:drawableEnd="@android:drawable/ic_menu_save"
+        android:text="Save"
+        android:textColor="@android:color/white" />
 </RelativeLayout>
