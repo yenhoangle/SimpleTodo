@@ -20,7 +20,9 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] Changed action bar color to teal
+* [x] Changed add and save button color to blue
+* [x] Added icons to buttons
 
 ## Video Walkthrough
 
